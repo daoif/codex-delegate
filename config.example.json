@@ -1,0 +1,9 @@
+{
+  "backend": "exec",
+  "sandbox": "read-only",
+  "concurrency": "single",
+  "scope": "current-repo",
+  "model": "auto",
+  "timeout": 600,
+  "outputDir": ".codex-output"
+}
