@@ -4,13 +4,13 @@
 
 ## 操作映射
 
-| 通用操作 | Copilot 工具 |
-|---------|-------------|
-| 在前台终端执行命令 | `run_in_terminal`（`isBackground: false`） |
-| 在后台终端执行命令 | `run_in_terminal`（`isBackground: true`） |
-| 检查后台终端输出 | `get_terminal_output`（传入终端 ID） |
-| 读取文件 | `read_file` |
-| 搜索文件 | `file_search` / `grep_search` / `semantic_search` |
+| 通用操作           | Copilot 工具                                      |
+| ------------------ | ------------------------------------------------- |
+| 在前台终端执行命令 | `run_in_terminal`（`isBackground: false`）        |
+| 在后台终端执行命令 | `run_in_terminal`（`isBackground: true`）         |
+| 检查后台终端输出   | `get_terminal_output`（传入终端 ID）              |
+| 读取文件           | `read_file`                                       |
+| 搜索文件           | `file_search` / `grep_search` / `semantic_search` |
 
 ## 前台执行示例
 
